@@ -75,6 +75,10 @@ img {
 	max-width: 100%;
 }
 
+.post-image {
+	max-width: 100%;
+}
+
 .modal-content {
 	background: url('../img/tile.jpg') top left repeat;
 }
